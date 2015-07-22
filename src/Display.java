@@ -35,6 +35,9 @@ public final class Display extends javax.swing.JFrame {
 
     }
 
+	/**
+	*   Add items to combo box
+	*/
     private void processCombo(JComboBox cmb) {
         cmb.removeAllItems();
 
